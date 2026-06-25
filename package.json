@@ -1,0 +1,12 @@
+{
+  "name": "buy_bot",
+  "version": "1.0.0",
+  "description": "Бот для скупки устройств",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3"
+  }
+}
